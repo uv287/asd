@@ -1,0 +1,17 @@
+2024-01-29 03:18:19.642 [info] Extension host with pid 4229 started
+2024-01-29 03:18:19.645 [error] Error: EEXIST: file already exists, open '/home/cs695/.vscode-server/data/User/workspaceStorage/212d282d13a13df0c14e1b020457cbf7/vscode.lock'
+2024-01-29 03:18:19.749 [info] Lock '/home/cs695/.vscode-server/data/User/workspaceStorage/212d282d13a13df0c14e1b020457cbf7/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-01-29 03:18:19.943 [info] Lock '/home/cs695/.vscode-server/data/User/workspaceStorage/212d282d13a13df0c14e1b020457cbf7/vscode.lock': The lock does not look stale, elapsed: 873 ms, giving up.
+2024-01-29 03:18:20.345 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-29 03:18:20.988 [info] Lock '/home/cs695/.vscode-server/data/User/workspaceStorage/212d282d13a13df0c14e1b020457cbf7-1/vscode.lock': Lock acquired.
+2024-01-29 03:18:21.752 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-29 03:18:21.948 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-29 03:18:21.988 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-29 03:18:26.498 [info] ExtensionService#_doActivateExtension ms-vscode.makefile-tools, startup: true, activationEvent: 'workspaceContains:**/makefile,**/Makefile,**/GNUmakefile'
+2024-01-29 03:18:31.190 [info] Eager extensions activated
+2024-01-29 03:18:31.198 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 03:18:31.203 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-29 03:51:28.710 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-29 06:04:13.917 [info] Extension host terminating: renderer disconnected for too long (2)
+2024-01-29 06:04:13.924 [info] Lock '/home/cs695/.vscode-server/data/User/workspaceStorage/212d282d13a13df0c14e1b020457cbf7-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-01-29 06:04:13.974 [info] Extension host with pid 4229 exiting with code 0

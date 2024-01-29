@@ -1,0 +1,27 @@
+2024-01-28 22:32:50.191 [info] 
+
+
+
+
+2024-01-28 22:32:50.229 [info] Extension host agent started.
+2024-01-28 22:32:50.460 [info] [127.0.0.1][efdc9a2c][ManagementConnection] New connection established.
+2024-01-28 22:32:50.469 [info] [127.0.0.1][0ccf285a][ExtensionHostConnection] New connection established.
+2024-01-28 22:32:50.996 [info] [127.0.0.1][0ccf285a][ExtensionHostConnection] <646> Launched Extension Host Process.
+2024-01-28 22:37:50.235 [info] New EH opened, aborting shutdown
+2024-01-28 23:34:44.748 [info] [127.0.0.1][21736839][ManagementConnection] New connection established.
+2024-01-28 23:34:44.758 [info] [127.0.0.1][4553852e][ExtensionHostConnection] New connection established.
+2024-01-28 23:34:44.771 [info] [127.0.0.1][4553852e][ExtensionHostConnection] <1353> Launched Extension Host Process.
+2024-01-28 23:39:45.167 [info] [127.0.0.1][0ccf285a][ExtensionHostConnection] <646> Extension Host Process exited with code: 0, signal: null.
+2024-01-29 02:36:09.605 [info] [127.0.0.1][21736839][ManagementConnection] The client has reconnected.
+2024-01-29 02:36:09.613 [info] [127.0.0.1][4553852e][ExtensionHostConnection] The client has reconnected.
+2024-01-29 03:18:11.037 [info] [127.0.0.1][55483f41][ManagementConnection] New connection established.
+2024-01-29 03:18:11.048 [info] [127.0.0.1][317e12d1][ExtensionHostConnection] New connection established.
+2024-01-29 03:18:11.083 [info] [127.0.0.1][317e12d1][ExtensionHostConnection] <4229> Launched Extension Host Process.
+2024-01-29 03:23:11.465 [info] [127.0.0.1][4553852e][ExtensionHostConnection] <1353> Extension Host Process exited with code: 0, signal: null.
+2024-01-29 05:59:13.561 [info] [127.0.0.1][b1e1e155][ManagementConnection] New connection established.
+2024-01-29 05:59:13.570 [info] [127.0.0.1][97b71e4b][ExtensionHostConnection] New connection established.
+2024-01-29 05:59:13.591 [info] [127.0.0.1][97b71e4b][ExtensionHostConnection] <10854> Launched Extension Host Process.
+2024-01-29 06:04:14.003 [info] [127.0.0.1][317e12d1][ExtensionHostConnection] <4229> Extension Host Process exited with code: 0, signal: null.
+2024-01-29 06:38:57.337 [info] [127.0.0.1][b1e1e155][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-29 06:38:57.538 [info] [127.0.0.1][97b71e4b][ExtensionHostConnection] <10854> Extension Host Process exited with code: 0, signal: null.
+2024-01-29 06:38:57.538 [info] Last EH closed, waiting before shutting down

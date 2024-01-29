@@ -1,0 +1,1 @@
+cmd_/home/cs695/module2/query_ioctl.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/cs695/module2/query_ioctl.ko /home/cs695/module2/query_ioctl.o /home/cs695/module2/query_ioctl.mod.o;  true
